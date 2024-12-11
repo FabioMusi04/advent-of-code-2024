@@ -6,9 +6,9 @@ const input = fs.readFileSync(path, 'utf8').trim().split(' ').map(Number);
 let occurrences = new Map();
 input.forEach(num => occurrences.set(num, (occurrences.get(num) || 0) + 1));
 
-for (let i = 1; i <= 25; i++) {
+for (let i = 1; i <= 75; i++) {
     const newOccurrences = new Map();
-    for (const [num, count] of occurrences.entries()) {
+    for (const [num, count] of occurrences) {
         if (num === 0) {
             newOccurrences.set(1, (newOccurrences.get(1) || 0) + count);
         } else {
@@ -29,4 +29,4 @@ for (let i = 1; i <= 25; i++) {
 }
 
 const answer = Array.from(occurrences.values()).reduce((sum, count) => sum + count, 0);
-console.log(`answer part 1: ${answer}`);
+console.log(`answer part 2: ${answer}`);
