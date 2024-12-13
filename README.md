@@ -4,8 +4,6 @@ Welcome to my Advent of Code challenge repository! This repository contains my s
 
 ## Progress
 
-I am currently at Day 12, Part 1. Below is a table to track my progress:
-
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
 | 1   | ✅     | ✅     |
