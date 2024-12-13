@@ -19,7 +19,7 @@ I am currently at Day 12, Part 1. Below is a table to track my progress:
 | 9   | ✅     | ✅     |
 | 10  | ✅     | ✅     |
 | 11  | ✅     | ✅     |
-| 12  | ✅     |        |
+| 12  | ✅     | ✅     |
 | 13  | ✅     | ✅     |
 | 14  |        |        |
 | 15  |        |        |
