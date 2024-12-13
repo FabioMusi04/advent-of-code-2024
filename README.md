@@ -7,7 +7,7 @@ Welcome to my Advent of Code challenge repository! This repository contains my s
 I am currently at Day 12, Part 1. Below is a table to track my progress:
 
 | Day | Part 1 | Part 2 |
-|-----|--------|--------|
+| --- | ------ | ------ |
 | 1   | ✅     | ✅     |
 | 2   | ✅     | ✅     |
 | 3   | ✅     | ✅     |
@@ -20,7 +20,7 @@ I am currently at Day 12, Part 1. Below is a table to track my progress:
 | 10  | ✅     | ✅     |
 | 11  | ✅     | ✅     |
 | 12  | ✅     |        |
-| 13  |        |        |
+| 13  | ✅     | ✅     |
 | 14  |        |        |
 | 15  |        |        |
 | 16  |        |        |
