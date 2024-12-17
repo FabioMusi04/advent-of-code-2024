@@ -22,7 +22,7 @@ Welcome to my Advent of Code challenge repository! This repository contains my s
 | 14  | ✅     | ✅     |
 | 15  | ✅     | ✅     |
 | 16  | ✅     | ✅     |
-| 17  |        |        |
+| 17  | ✅     |        |
 | 18  |        |        |
 | 19  |        |        |
 | 20  |        |        |
