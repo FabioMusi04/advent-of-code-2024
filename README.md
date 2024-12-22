@@ -25,7 +25,7 @@ Welcome to my Advent of Code challenge repository! This repository contains my s
 | 17  | ✅     | ✅     |
 | 18  | ✅     | ✅     |
 | 19  | ✅     | ✅     |
-| 20  |        |        |
+| 20  | ✅     | ✅     |
 | 21  |        |        |
 | 22  |        |        |
 | 23  |        |        |
