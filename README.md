@@ -29,7 +29,7 @@ Welcome to my Advent of Code challenge repository! This repository contains my s
 | 21  |        |        |
 | 22  | ✅     | ✅     |
 | 23  | ✅     | ✅     |
-| 24  |        |        |
+| 24  | ✅     |        |
 | 25  |        |        |
 
 ## How to Run
